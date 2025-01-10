@@ -1,0 +1,1 @@
+This program is intended for the Attiny1604 or Attiny1614, although the name suggests otherwise. The explanation is simple – I initially thought the program would fit into 2KB, but it turns out the program is around 10KB, so it wouldn't even fit into the Attiny817 :D
